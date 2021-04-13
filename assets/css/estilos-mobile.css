@@ -1,0 +1,436 @@
+/*
+### Estilos - Site Institucional Mastermaq	Software###
+Criado em: 10/11/2020
+Versão: 0.1
+Revisado em: 
+*/
+
+
+@media(max-width:768px){
+
+
+.erro h1{
+	font-size:75px!important;
+}
+
+.fixed-top {
+	z-index:9999;
+}
+.navbar-toggler{
+    font-size: 26px;
+}
+
+.navbar-toggler i{
+	color:#fff;
+}
+
+header{
+	padding: 0.1rem 0 0.5rem 0;
+}
+
+.navbar-nav{
+	margin-left: 0rem!important;
+}
+
+#Menu{
+	height:100vh;
+    padding-top: 1rem;
+}
+
+.dropdown-menu{
+	display:block;
+	width: 95%;
+    margin-left: 3rem;
+    background-color: transparent!important;
+    border: 0;
+    margin-bottom: 1rem;
+}
+
+.nav-link{
+	font-weight:bold;
+	font-size:16px;
+}
+
+.empresas .banner-home .slide-item{
+	background-position: 21% 0!important;
+}
+
+.escritorios-contabeis .banner-home .slide-item{
+	background-position: 20% 62%!important;
+}
+
+.domo .banner-home .slide-item{
+	background-position: 50% 35%!important;
+}
+
+.domo .banner-home .carousel-caption img {
+    width: 380px;
+}
+
+.domo .banner-home .carousel-caption h1{
+    width: 462px!important;
+}
+
+.escritorios-contabeis .banner-home .carousel-caption,.ng .banner-home .carousel-caption, .evo .banner-home .carousel-caption{
+	height:94%;
+}
+
+.banner-home .carousel-caption h1 {
+    width: 100%!important;
+	font-size:40px;
+	line-height:55px;
+}
+
+
+.evo .banner-home .slide-item {
+	background-position: 54% 35%!important;
+}
+
+.onboarding .banner-home .slide-item{
+	background-position: 70% 35%!important;
+}
+
+.suporte .banner-home .slide-item{
+	background-position: 70% 35%!important;
+}
+
+.capacitacao .banner-home .slide-item{
+	background-position: 45% 35%;
+}
+
+.exp-cliente .banner-home .slide-item{
+	background-position: 15% 35%!important;
+}
+
+.gestao-contas .banner-home .slide-item{
+	background-position: 85% 35%!important;
+}
+
+.iaas .banner-home .slide-item{
+	background-position: 55% 35%!important;
+}
+
+.iaas .banner-home img{
+	width:70%!important;
+}
+
+.micro.alpha .banner-home .carousel-caption {
+    left: 0%!important;
+    height: 0!important;
+    top: 40%!important;
+}
+
+
+.banner-home .carousel-caption img{
+	width:45%;
+	margin-top:10rem;
+	margin-left:0.5rem;
+}
+
+.medias-grandes-empresas .banner-home .slide-item{
+    background-position: 52% 35%!important;
+}
+
+.servicos .banner-home .slide-item{
+    background-position: 47% 35%!important;
+}
+
+
+.micro .banner-home .slide-item{
+	background-position: 69% 35%!important;
+}
+
+.sap .banner-home .slide-item{
+	background-position: 60% 35%!important;
+}
+
+.slide-conteudo{
+	width:100%!important;
+	min-height:30vh;
+	height:auto;
+	padding:2rem!important;
+}	
+
+.banner-home .carousel-caption {
+	top:40%;
+	bottom:inherit;
+	min-height:10%!important;
+	max-height:94%!important;
+	  top: 0;
+    bottom: 0;
+    min-height: 10%!important;
+    max-height: 94%!important;
+	right:0!important;
+	left:0!important;
+	padding-left:1rem;
+	padding-right:1rem;
+	width:100%!important;
+}
+
+.banner-home .slide-item{
+	background-position: 49% -5%;
+	  filter: blur(1px);
+  -webkit-filter: blur(1px);
+  background-attachment:local!important;
+}
+
+.banner-home h1 {
+	width: 85%!important;
+	margin-left:0.5rem;
+}
+
+.contato .col-12{
+	padding:15px!important;
+}
+
+.contato p{
+	width:100%!important;
+}
+
+.contato .formulario{
+	margin-bottom: -130px;
+}
+
+.rolagem-pagina img{
+	display:none;
+	
+}
+
+.banner-home p {
+	width:100%;
+	display:none;
+}
+
+.domo .banner-cta {
+	display:block!important;
+}
+	
+.conteudo,.conteudo.fim{
+	padding:2rem 1rem!important;
+}
+
+.conteudo-imagem-capa {
+	min-height:50vh!important;
+	background-position: 50% 30%;
+	width: 120%;
+    margin-left: -32px;
+	background-size: cover!important;
+}	
+
+.conteudo-interno{
+	margin: 2rem auto 0 -1.5rem;
+    width: 114%;
+	padding:1rem;
+}
+
+.tag {
+	float:none;
+	margin:0 0 2rem 0;
+	display:block;
+	text-align:center;
+}
+
+
+.conteudo .col-12.mx-auto{
+	order: 13!important;
+}
+
+.conteudo .col-12.mx-auto{
+	order: 1!important;
+}
+
+.conteudo-conversao .row .col-12{
+	padding:2rem!important;	
+}
+
+.conteudo-conversao .row .col-12 h2, .conteudo-conversao .row .col-12 div{
+	width:100%!important;
+}
+
+.conteudo-conversao .rodape-domo{
+	width:100%!important;
+}
+
+.conteudo-conversao .rodape-domo p strong{
+	display:block;
+}
+
+
+.conteudo-conversao .rodape-domo .endereco{
+	display:block;
+}
+
+.video{
+	margin: 50px auto 50px auto;
+}
+
+.video .conteudo-interno{
+	margin:0!important;
+}
+
+.play{
+	width: 115px;
+    height: 115px;
+	margin: 0 auto 0px auto;
+	padding-top: 30px;
+}
+
+.video .conteudo-interno h2 {
+    font-size: 40px;
+}
+
+.video-executando iframe {
+    margin: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 370px;
+    display: block;
+}
+
+.video-home{
+	height: auto!important;
+	margin: -12vh auto!important;
+	width:95vw!important;
+}
+
+.conteudo-imagem-capa .conteudo-interno .play{
+    padding-top: 30px!important;
+    display: block!important;
+}
+
+.formulario{
+	position:relative;
+	margin-top: 0;
+	padding-bottom: 115px;
+	width: 110%!important;
+	border-radius: 0!important;
+}
+
+.formulario-enviado{
+    width: 105%;
+	top:30%;
+}
+
+.conteudo-conversao{
+	margin-top:85px;
+}
+
+.conversao-conteudo{
+	padding:3rem;
+}
+
+.conversao {
+    padding: 0!important;
+}
+
+.fechamento-home {
+    padding: 2rem!important;
+}
+
+.evo-logos li{
+	display:block;
+	margin-bottom:2rem;
+}
+
+.rodape-menus{
+	display:none;
+}
+
+.rodape-creditos{
+    min-height: 100px;
+	height:auto;
+
+}
+
+.rodape-creditos{
+	text-align:center!important
+}
+
+.rodape-creditos .text-right{
+	text-align:center!important;
+}
+
+
+.bg-completo-direita, .bg-completo-esquerda{
+	background-size: 100%!important;
+	background-position-x: 0!important;
+}
+
+.bg-completo-direita .conteudo-imagem-capa, .bg-completo-esquerda .conteudo-imagem-capa{
+	    background-position: 50% 13%!important	
+}
+
+.bg-completo-direita .conteudo-interno, .bg-completo-esquerda .conteudo-interno{
+	padding:1rem 5rem;
+}
+
+.bg-completo-direita, .bg-completo-esquerda{
+	width: 110%!important;
+    margin-left: -21px!important;
+    padding-bottom: 39px!important;
+}
+
+.plano-caixa{
+	margin-bottom:1rem;
+}
+
+.btn-plano{
+	zoom: 1.4;
+}
+
+.btn-whatsapp.r {
+    top: 63%!important;
+}
+
+.fechamento-home-conteudo{
+	width:100%!important;
+}
+
+.fechamento-home-conteudo p{
+	width:100%!important;
+}
+
+#SlideDomo .carousel-indicators{
+	top: 99%;
+}	
+
+.video-executando {
+    width: 110%!important;
+    left: -5%!important;
+}
+
+.video-executando.medio iframe {
+    width: 95%!important;
+}
+
+.video-medio .conteudo-interno {
+	width:100%!important;
+}
+
+.conteudo.video{
+	 height: 56vh!important;
+}
+
+.app-baixar{
+	display: inline-block;
+    margin-top: 2rem;
+}
+
+.app-baixar:nth-child(1){
+	margin-right:0!important;
+	margin-left:0!important;
+}
+
+.btn-whatsapp-fechar{
+	bottom:1.5%;
+	right:10%;
+}
+.conteudo-conversao p {
+    width: 100%!important;
+}
+.contato-texto {
+    font-size: 18px!important;
+}
+
+}
