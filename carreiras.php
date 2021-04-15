@@ -60,6 +60,13 @@
 						<div class="conteudo-interno">
 							<h2>Aliamos experiência e inovação em um só lugar</h2>
 							<p>Somos uma empresa que atua há 28 anos no mercado de softwares de gestão, portanto temos muita experiência. No entanto, buscamos constantemente a inovação e a evolução, como uma empresa jovem. O melhor de dois mundos, numa só empresa.</p>
+							<p class="mt-5">	
+								<a href="https://vagas.recrutamentointeligente.net/mastermaq" target="_blank" class="link-motion">
+									<span class="seta1 fade-in"></span> 
+									<img src="assets/img/seta.png" width="40" class="fade-in-left"> 
+									Veja nossas vagas
+								</a>
+							</p>
 						</div>	
 					</div>
 				</div>

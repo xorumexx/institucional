@@ -7,7 +7,7 @@
 					<li><h6><a href="<?php echo htmlspecialchars(dirname(".")); ?>">Mastermaq</a></h6></li>
 					<li><a href="https://contato.mastermaq.com.br/cliente/acesso" target="_blank">Área do cliente</a></li>
 					<li><a href="sobre-nos">Sobre nós</a></li>
-					<li><a href="carreiras">Carreiras</a></li>
+					<li><a href="carreiras">Trabalhe conosco</a></li>
 					<!--<li><a href="podium">Podium</a></li>-->
 					<li><a href="https://universidade.mastermaq.com.br/portal" target="_blank">Universidade</a></li>
 					<li><a href="https://blog.mastermaq.com.br/" target="_blank">Blog Mastermaq</a></li>
